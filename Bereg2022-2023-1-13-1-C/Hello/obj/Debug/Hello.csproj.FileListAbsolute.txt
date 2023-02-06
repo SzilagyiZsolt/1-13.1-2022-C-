@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\bin\Debug\Hello.exe.config
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\bin\Debug\Hello.exe
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\bin\Debug\Hello.pdb
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\obj\Debug\Hello.exe
+C:\Munka\Programozás\C#\Bereg2022-2023-1-13-1-C\Hello\obj\Debug\Hello.pdb
