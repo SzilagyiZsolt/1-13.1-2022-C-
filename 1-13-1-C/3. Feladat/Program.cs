@@ -10,7 +10,7 @@ namespace _3.Feladat
     {
         static void Main(string[] args)
         {
-            
+
             int a;
             
         Console.WriteLine("Add meg a hőmérsékletet: ");

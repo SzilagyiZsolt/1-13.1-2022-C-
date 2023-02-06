@@ -6,3 +6,11 @@ C:\Munka\Programozás\C#\1-13-1-C\Tesztelések\obj\Debug\Kő Papír Olló.csproj
 C:\Munka\Programozás\C#\1-13-1-C\Tesztelések\obj\Debug\Kő Papír Olló.csproj.CoreCompileInputs.cache
 C:\Munka\Programozás\C#\1-13-1-C\Tesztelések\obj\Debug\Tesztelések.exe
 C:\Munka\Programozás\C#\1-13-1-C\Tesztelések\obj\Debug\Tesztelések.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\bin\Debug\Tesztelések.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\bin\Debug\Tesztelések.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\bin\Debug\Tesztelések.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\obj\Debug\Kő Papír Olló.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\obj\Debug\Kő Papír Olló.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\obj\Debug\Kő Papír Olló.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\obj\Debug\Tesztelések.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tesztelések\obj\Debug\Tesztelések.pdb
