@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Animal\bin\Debug\Animal.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Animal\bin\Debug\Animal.exe
+C:\Munka\Programozás\C#\1-13-1-C\Animal\bin\Debug\Animal.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Animal\obj\Debug\Animal.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Animal\obj\Debug\Animal.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Animal\obj\Debug\Animal.exe
+C:\Munka\Programozás\C#\1-13-1-C\Animal\obj\Debug\Animal.pdb
