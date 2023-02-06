@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\bin\Debug\Runparam.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\bin\Debug\Runparam.exe
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\bin\Debug\Runparam.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\obj\Debug\Runparam.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\obj\Debug\Runparam.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\obj\Debug\Runparam.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\obj\Debug\Runparam.exe
+C:\Munka\Programozás\C#\1-13-1-C\Runparam\obj\Debug\Runparam.pdb

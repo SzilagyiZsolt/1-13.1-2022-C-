@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\bin\Debug\Számkitaláló játék.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\bin\Debug\Számkitaláló játék.exe
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\bin\Debug\Számkitaláló játék.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\obj\Debug\Számkitaláló játék.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\obj\Debug\Számkitaláló játék.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\obj\Debug\Számkitaláló játék.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\obj\Debug\Számkitaláló játék.exe
+C:\Munka\Programozás\C#\1-13-1-C\Számkitaláló játék\obj\Debug\Számkitaláló játék.pdb

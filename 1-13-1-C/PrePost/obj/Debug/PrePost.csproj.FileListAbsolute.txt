@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\bin\Debug\PrePost.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\bin\Debug\PrePost.exe
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\bin\Debug\PrePost.pdb
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\obj\Debug\PrePost.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\obj\Debug\PrePost.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\obj\Debug\PrePost.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\obj\Debug\PrePost.exe
+C:\Munka\Programozás\C#\1-13-1-C\PrePost\obj\Debug\PrePost.pdb
