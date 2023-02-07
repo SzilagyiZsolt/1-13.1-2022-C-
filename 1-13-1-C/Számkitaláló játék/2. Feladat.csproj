@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B723ECD6-DDD4-4054-B76F-B93FB074FBC4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Számkitaláló_játék</RootNamespace>
-    <AssemblyName>Számkitaláló játék</AssemblyName>
+    <RootNamespace>_2.Feladat</RootNamespace>
+    <AssemblyName>2. Feladat</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

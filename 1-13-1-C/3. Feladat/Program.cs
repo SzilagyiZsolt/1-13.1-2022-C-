@@ -15,12 +15,15 @@ namespace _3.Feladat
             
         Console.WriteLine("Add meg a hőmérsékletet: ");
             a = int.Parse(Console.ReadLine());
-        Console.WriteLine("celsius vagy fahrenheit (C/F): ");
-            if (Console.ReadKey(true).KeyChar == 'C')
+        Console.WriteLine("celsius vagy fahrenheit (c/f): ");
+            if (Console.ReadKey(true).KeyChar == 'c')
                 Console.WriteLine("Át akarod váltani fahrenheitba? (i/n) ");
-            if (Console.ReadKey(true).KeyChar == 'i')
-              Console.WriteLine( a * 1.8 + 32);
-            Console.WriteLine("Ennyi fahrenheitban: {0},", a);
+                if (Console.ReadKey(true).KeyChar == 'i')
+                    Console.WriteLine("Ennyi fahrenheitban: {0}", a * 1.8 + 32);
+            else if (Console.ReadKey(true).KeyChar == 'f')
+                Console.WriteLine("Át akarod váltani fahrenheitba? (i/n) ");
+                if (Console.ReadKey(true).KeyChar == 'i')
+                    Console.WriteLine("Ennyi celsiusban: {0}", (a - 32)*0.5556 );
             Console.ReadKey();
 
         }

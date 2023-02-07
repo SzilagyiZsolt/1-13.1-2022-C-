@@ -1,0 +1,8 @@
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\bin\Debug\_4.Feladat.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\bin\Debug\_4.Feladat.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\bin\Debug\_4.Feladat.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\obj\Debug\4. Feladat.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\obj\Debug\4. Feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\obj\Debug\4. Feladat.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\obj\Debug\_4.Feladat.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\4. Feladat\obj\Debug\_4.Feladat.pdb
