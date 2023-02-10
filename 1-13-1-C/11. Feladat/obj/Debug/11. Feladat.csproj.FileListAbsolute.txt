@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\bin\Debug\_11.Feladat.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\bin\Debug\_11.Feladat.exe
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\bin\Debug\_11.Feladat.pdb
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\obj\Debug\11. Feladat.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\obj\Debug\11. Feladat.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\obj\Debug\11. Feladat.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\obj\Debug\_11.Feladat.exe
+C:\Munka\Programozás\C#\1-13-1-C\11. Feladat\obj\Debug\_11.Feladat.pdb
