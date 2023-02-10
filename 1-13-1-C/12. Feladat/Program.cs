@@ -11,14 +11,14 @@ namespace _12.Feladat
     {
         static void Main(string[] args)
         {
+            int a, c, i;
+
             Console.WriteLine("Adj meg egy összeget:");
-            int a = Convert.ToInt32(Console.ReadLine());
-
-            int c = 0;
-
+            a = Convert.ToInt32(Console.ReadLine());
+            c = 0;
             int[] b = new int[] { 10, 20, 50, 100, 200 };
 
-            for (int i = b.Length - 1; i >= 0; i--)
+            for (i = b.Length - 1; i >= 0; i--)
             {
                 while (a >= b[i])
                 {
@@ -27,7 +27,7 @@ namespace _12.Feladat
                 }
             }
 
-            Console.WriteLine("Az összeg a lehető legkevesebb pénzérméből összeállítva: " + c + " db.");
+            Console.WriteLine("Az összeg a lehető legkevesebb pénzérméből összeállítva: {0} db.", c);
             Console.ReadLine();
         }
     }
