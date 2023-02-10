@@ -14,7 +14,7 @@ namespace _18.Feladat
             int a, b, c, gyök;
             float gyök2, vég,vég2;
             Console.WriteLine("Add meg az A-t: ");
-            a=int.Parse(Console.ReadLine());
+            a = int.Parse(Console.ReadLine());
             Console.WriteLine("Add meg az B-t: ");
             b = int.Parse(Console.ReadLine());
             Console.WriteLine("Add meg az C-t: ");

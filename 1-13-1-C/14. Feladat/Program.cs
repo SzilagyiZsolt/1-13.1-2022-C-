@@ -12,13 +12,14 @@ namespace _14.Feladat
         static void Main(string[] args)
         {
             float a, b, T, cs, TT;
-            Console.WriteLine("Add meg a szélességet és a magasságot:");
+            Console.WriteLine("Add meg a szélességet: ");
             a = float.Parse(Console.ReadLine());
+            Console.WriteLine("Add meg a magasságot: ");
             b = float.Parse(Console.ReadLine());
             T = a * b;
             cs = (float)(T / (0.2 * 0.2));
             TT = (float)(cs * 1.1);
-            Console.WriteLine(TT);
+            Console.WriteLine("{0} csempére lesz szükség!", TT);
             Console.ReadKey();
         }
     }
