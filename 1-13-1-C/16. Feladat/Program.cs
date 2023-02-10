@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,55 +12,59 @@ namespace _16.Feladat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Adja meg a szög tipusát!: (Háromszög (3), Négyszög (4), Ötszög (5), Hatszög(6)");
-            int valasztas = int.Parse(Console.ReadLine());
-            switch (valasztas)
-            {
-                case 3:
-                    Console.WriteLine("Adja meg a háromszög oldalainak hosszát:");
-                    double oldal1 = double.Parse(Console.ReadLine());
-                    double oldal2 = double.Parse(Console.ReadLine());
-                    double oldal3 = double.Parse(Console.ReadLine());
-                    Console.WriteLine("A háromszög sugara:" + haromszog(oldal1, oldal2, oldal3));
-                    break;
-                case 4:
-                    Console.WriteLine("Adja meg a négyszög oldalainak számát:");
-                    double oldal4 = double.Parse(Console.ReadLine());
-                    double oldal5 = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Adja meg a négyszög magasságát:");
-                    double magassag = double.Parse(Console.ReadLine());
-                    Console.WriteLine("A négyszög sugara:" + negyszog(oldal4, oldal5, magassag));
-                    break;
-                case 5:
-                    Console.WriteLine("Az ötszög átlóinak hossza nem kiszámítható.");
-                    break;
-                case 6:
-                    Console.WriteLine("Adja meg a hatszög sugara hosszát:");
-                    double oldal6 = double.Parse(Console.ReadLine());
-                    Console.WriteLine("A hatszögnek átlóinak hossza:" + hatszog(oldal6));
-                    break;
-                default:
-                    Console.WriteLine("Nem megfelelő szög!");
-                    break;
-            }
-            Console.ReadLine();
-            double haromszog(double oldal1, double oldal2, double oldal3)
-            {
-                double s = (oldal1 + oldal2 + oldal3) / 2;
-                double area = Math.Sqrt(s * (s - oldal1) * (s - oldal2) * (s - oldal3));
-                return (2 * area / oldal3) / 2;
+            double a, m, átló, szög, r, R;
 
-            }
+            Console.WriteLine("Add meg hány szögű a szabályos alakzatod (3,4,5,6): ");
+            szög = double.Parse(Console.ReadLine());
+            Console.WriteLine("Add meg az oldal hosszát (cm): ");
+            a = double.Parse(Console.ReadLine());
 
-            double negyszog(double oldal4, double oldal5, double magassag)
+            if (szög == 3)
             {
-                return Math.Sqrt(oldal4 * oldal4 + oldal5 * oldal5 + 2 * magassag * magassag) / 2;
+                Console.WriteLine("Az átló hossza: {0}cm", a);
+                Console.WriteLine("Add meg a magasságot (cm): ");
+                m = double.Parse(Console.ReadLine());
+                r=a * (Math.Sqrt(3)/6);
+                Console.WriteLine("A beírható kör sugara: {0}cm", r);
+                R = m - r;
+                Console.WriteLine("A körülírt kör sugara: {0}cm", R);
             }
-
-            double hatszog(double oldal6)
+            else if (szög == 4)
             {
-                return (oldal6 * Math.Sqrt(3) / 2);
+                átló = a * Math.Sqrt(2);
+                Console.WriteLine("Az átló hossza: {0}cm", átló);
+                r = a / 2;
+                Console.WriteLine("A beírható kör sugara: {0}cm", r);
+                R = (Math.Sqrt(2) * a) / 2;
+                Console.WriteLine("A körülírt kör sugara: {0}cm", R);
             }
+            else if (szög == 5)
+            {
+                Console.WriteLine("Add meg a magasságot (cm): ");
+                m = double.Parse(Console.ReadLine());
+                átló = Math.Pow(a, 2) + Math.Pow(m, 2);
+                Console.WriteLine("Az átló hossza: {0}cm", átló);
+                r = 5 / Math.Tan(36);
+                Console.WriteLine("A beírható kör sugara: {0}cm", r);
+                R = 5 / Math.Sin(36);
+                Console.WriteLine("A körülírt kör sugara: {0}cm", R);
+            }
+            else if (szög == 6)
+            {
+                Console.WriteLine("Add meg a magasságot (cm): ");
+                m = double.Parse(Console.ReadLine());
+                átló = Math.Pow(a, 2) + Math.Pow(m, 2);
+                Console.WriteLine("Az átló hossza: {0}cm", átló);
+                r = (a * Math.Sqrt(3)) / 2;
+                Console.WriteLine("A beírható kör sugara: {0}cm", r);
+                R = a;
+                Console.WriteLine("A körülírt kör sugara: {0}cm", R);
+            }
+            else if (szög <= 2)
+            {
+                Console.WriteLine("Nincs ilyen alakzat!");
+            }
+            Console.ReadKey();
         }
     }
 }

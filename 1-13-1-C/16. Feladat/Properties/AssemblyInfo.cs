@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("16. Feladat")]
+[assembly: AssemblyTitle("16. Feladat 2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("16. Feladat")]
+[assembly: AssemblyProduct("16. Feladat 2")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0f29ecc4-7054-4ea7-9d6e-9ea3cc96a3a1")]
+[assembly: Guid("8bd2d6db-bc06-4c5a-92c6-6210bc98a21b")]
 
 // Version information for an assembly consists of the following four values:
 //
