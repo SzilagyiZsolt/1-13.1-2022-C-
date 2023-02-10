@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\bin\Debug\Teszt.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\bin\Debug\Teszt.exe
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\bin\Debug\Teszt.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\obj\Debug\Teszt.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\obj\Debug\Teszt.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\obj\Debug\Teszt.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\obj\Debug\Teszt.exe
+C:\Munka\Programozás\C#\1-13-1-C\Teszt\obj\Debug\Teszt.pdb
