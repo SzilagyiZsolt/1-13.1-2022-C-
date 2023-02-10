@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _15.Feladat
+namespace _16.Feladat
 {
     internal class Program
     {
