@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\bin\Debug\String  Metods.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\bin\Debug\String  Metods.exe
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\bin\Debug\String  Metods.pdb
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\obj\Debug\String  Metods.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\obj\Debug\String  Metods.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\obj\Debug\String  Metods.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\obj\Debug\String  Metods.exe
+C:\Munka\Programozás\C#\1-13-1-C\String  Metods\obj\Debug\String  Metods.pdb

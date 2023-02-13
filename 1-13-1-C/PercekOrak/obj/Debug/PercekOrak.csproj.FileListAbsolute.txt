@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\bin\Debug\PercekOrak.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\bin\Debug\PercekOrak.exe
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\bin\Debug\PercekOrak.pdb
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\obj\Debug\PercekOrak.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\obj\Debug\PercekOrak.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\obj\Debug\PercekOrak.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\obj\Debug\PercekOrak.exe
+C:\Munka\Programozás\C#\1-13-1-C\PercekOrak\obj\Debug\PercekOrak.pdb

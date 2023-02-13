@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\bin\Debug\String Demo.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\bin\Debug\String Demo.exe
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\bin\Debug\String Demo.pdb
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.exe
+C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.pdb

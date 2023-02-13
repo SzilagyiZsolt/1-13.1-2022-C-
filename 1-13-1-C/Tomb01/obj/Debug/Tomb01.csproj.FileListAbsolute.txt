@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\bin\Debug\Tomb01.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\bin\Debug\Tomb01.exe
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\bin\Debug\Tomb01.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.exe
+C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.pdb
