@@ -6,3 +6,11 @@ C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.SuggestedBindin
 C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.CoreCompileInputs.cache
 C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.exe
 C:\Munka\Programozás\C#\1-13-1-C\Tomb01\obj\Debug\Tomb01.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\bin\Debug\Tomb01.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\bin\Debug\Tomb01.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\bin\Debug\Tomb01.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\obj\Debug\Tomb01.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\obj\Debug\Tomb01.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Tomb01\obj\Debug\Tomb01.pdb

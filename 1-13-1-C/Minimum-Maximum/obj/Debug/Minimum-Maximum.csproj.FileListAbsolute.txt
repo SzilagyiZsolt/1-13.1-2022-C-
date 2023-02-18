@@ -1,0 +1,8 @@
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.pdb
