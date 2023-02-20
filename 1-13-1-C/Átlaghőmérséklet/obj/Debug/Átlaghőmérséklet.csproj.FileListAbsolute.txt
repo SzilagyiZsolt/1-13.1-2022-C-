@@ -6,3 +6,11 @@ C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.CoreCompileInputs.cache
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.exe
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.exe
+C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.pdb

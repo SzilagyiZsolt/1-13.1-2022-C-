@@ -10,12 +10,8 @@ namespace Buborékrendezés
     {
         static void Main(string[] args)
         {
-            int min, max;
-
+            //Tömb feltöltés
             Random r = new Random();
-
-            min = 1000;
-            max = -1;
             int[] tomb = new int[20];
             for (int i = 0; i < 20; ++i)
             {
@@ -33,6 +29,8 @@ namespace Buborékrendezés
                     } 
                 } 
             }
+
+            //Megoldás
             for (int i = 1; i < tomb.Length; ++i) 
             { 
                 int y = tomb[i]; 

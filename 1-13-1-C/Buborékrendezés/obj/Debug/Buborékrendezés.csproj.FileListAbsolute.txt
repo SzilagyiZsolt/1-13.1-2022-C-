@@ -6,3 +6,11 @@ C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Buborékrendezés\obj\Debug\Bub
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.csproj.CoreCompileInputs.cache
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.exe
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\bin\Debug\Buborékrendezés.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\bin\Debug\Buborékrendezés.exe
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\bin\Debug\Buborékrendezés.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.exe
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés\obj\Debug\Buborékrendezés.pdb

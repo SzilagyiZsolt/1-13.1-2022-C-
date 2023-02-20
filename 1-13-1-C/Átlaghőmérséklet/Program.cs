@@ -12,8 +12,8 @@ namespace Átlaghőmérséklet
         {
             int min, max;
 
+            //Tömb feltöltés
             Random r = new Random();
-
             min = 40;
             max = -20;
             int[] tomb = new int[360];
@@ -21,6 +21,8 @@ namespace Átlaghőmérséklet
             {
                 tomb[i] = r.Next(max,min);
             }
+
+            //Megoldás
             for (int i = 1; i < 13; ++i)
             {
                 for (int j=1; j<31;++j)
@@ -36,6 +38,8 @@ namespace Átlaghőmérséklet
                     Console.WriteLine("{0} hónap {1} napján a hőmérséklet: {2}", i, j, tomb[j]);
                 }
             }
+
+            //Kiírás
             Console.WriteLine("Az év leghidegebb napja: {0}.", min);
             Console.WriteLine("Az év legmelegebb napja: {0}.", max);
             Console.ReadKey();

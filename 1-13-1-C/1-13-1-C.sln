@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Átlaghőmérséklet", "Át
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buborékrendezés", "Buborékrendezés\Buborékrendezés.csproj", "{42133892-BC0C-4DA5-90C4-35B9C75164EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osztály", "Osztály\Osztály.csproj", "{D17748D6-69E0-427F-A713-93AADC8F4189}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -175,6 +177,10 @@ Global
 		{42133892-BC0C-4DA5-90C4-35B9C75164EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42133892-BC0C-4DA5-90C4-35B9C75164EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42133892-BC0C-4DA5-90C4-35B9C75164EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17748D6-69E0-427F-A713-93AADC8F4189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17748D6-69E0-427F-A713-93AADC8F4189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17748D6-69E0-427F-A713-93AADC8F4189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17748D6-69E0-427F-A713-93AADC8F4189}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

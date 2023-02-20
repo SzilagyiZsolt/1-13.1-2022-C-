@@ -6,3 +6,11 @@ C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\bin\Debug\Minim
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.pdb
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.exe
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.exe
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\bin\Debug\Minimum-Maximum.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.exe
+C:\Munka\Programozás\C#\1-13-1-C\Minimum-Maximum\obj\Debug\Minimum-Maximum.pdb

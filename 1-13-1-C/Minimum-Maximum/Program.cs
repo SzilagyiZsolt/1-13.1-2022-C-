@@ -12,8 +12,8 @@ namespace Minimum_Maximum
         {
             int min, max, minIdx, maxIdx;
 
+            //Tömb feltöltés
             Random r = new Random();
-            
             min = 1000; 
             max = -1; 
             minIdx = 0; 
@@ -24,6 +24,8 @@ namespace Minimum_Maximum
                 tomb[i] = r.Next(1001);
                 Console.WriteLine(tomb[i]);
             }
+
+            //Megoldás
             for (int i = 0; i < 10; ++i) 
             { 
                 if (tomb[i] < min) 
@@ -35,6 +37,7 @@ namespace Minimum_Maximum
                     max = tomb[i]; maxIdx = i;
                 } 
             }
+            //Kiírás
             Console.WriteLine("A tömb legkisebb száma: {0}. Indexe: {1}", min, minIdx);
             Console.WriteLine("A tömb legnagyobb száma: {0}. Indexe: {1}", max, maxIdx);
             Console.ReadKey();
