@@ -33,12 +33,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Feladat", "14. Feladat\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt", "Teszt\Teszt.csproj", "{CA60B7A9-2825-4032-A2EE-732D898624DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teszt2", "16. Feladat2\Teszt2.csproj", "{3090CE9A-51AB-4E59-B6AB-F49090A7A366}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Feladat", "15. Feladat 2\15. Feladat.csproj", "{9B6C8C42-58D2-4F92-9019-A7DE3DD3E388}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Feladat", "16. Feladat 2\16. Feladat.csproj", "{8BD2D6DB-BC06-4C5A-92C6-6210BC98A21B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercekOrak", "PercekOrak\PercekOrak.csproj", "{38C3F84D-53D2-4F27-8622-FFF3D2255923}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomb01", "Tomb01\Tomb01.csproj", "{E29CC938-DCDB-4CB6-9AC2-0770F91B270A}"
@@ -62,6 +56,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buborékrendezés", "Buborékrendezés\Buborékrendezés.csproj", "{42133892-BC0C-4DA5-90C4-35B9C75164EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Osztály", "Osztály\Osztály.csproj", "{D17748D6-69E0-427F-A713-93AADC8F4189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorf", "Polimorf\Polimorf.csproj", "{113E8F87-5B64-4E5B-8668-AC04AAD4EA5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,18 +125,6 @@ Global
 		{CA60B7A9-2825-4032-A2EE-732D898624DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA60B7A9-2825-4032-A2EE-732D898624DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA60B7A9-2825-4032-A2EE-732D898624DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3090CE9A-51AB-4E59-B6AB-F49090A7A366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3090CE9A-51AB-4E59-B6AB-F49090A7A366}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3090CE9A-51AB-4E59-B6AB-F49090A7A366}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3090CE9A-51AB-4E59-B6AB-F49090A7A366}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9B6C8C42-58D2-4F92-9019-A7DE3DD3E388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B6C8C42-58D2-4F92-9019-A7DE3DD3E388}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B6C8C42-58D2-4F92-9019-A7DE3DD3E388}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B6C8C42-58D2-4F92-9019-A7DE3DD3E388}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BD2D6DB-BC06-4C5A-92C6-6210BC98A21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BD2D6DB-BC06-4C5A-92C6-6210BC98A21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BD2D6DB-BC06-4C5A-92C6-6210BC98A21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BD2D6DB-BC06-4C5A-92C6-6210BC98A21B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{38C3F84D-53D2-4F27-8622-FFF3D2255923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{38C3F84D-53D2-4F27-8622-FFF3D2255923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38C3F84D-53D2-4F27-8622-FFF3D2255923}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -181,6 +165,10 @@ Global
 		{D17748D6-69E0-427F-A713-93AADC8F4189}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17748D6-69E0-427F-A713-93AADC8F4189}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17748D6-69E0-427F-A713-93AADC8F4189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113E8F87-5B64-4E5B-8668-AC04AAD4EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113E8F87-5B64-4E5B-8668-AC04AAD4EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113E8F87-5B64-4E5B-8668-AC04AAD4EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113E8F87-5B64-4E5B-8668-AC04AAD4EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

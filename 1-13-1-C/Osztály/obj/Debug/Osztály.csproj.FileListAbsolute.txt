@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\bin\Debug\Osztály.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\bin\Debug\Osztály.exe
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\bin\Debug\Osztály.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\obj\Debug\Osztály.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\obj\Debug\Osztály.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\obj\Debug\Osztály.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\obj\Debug\Osztály.exe
+C:\Munka\Programozás\C#\1-13-1-C\Osztály\obj\Debug\Osztály.pdb
