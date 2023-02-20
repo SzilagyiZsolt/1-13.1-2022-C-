@@ -50,7 +50,7 @@ namespace Polimorf
             if (lakok.Count > 0)
             {
                 i=random.Next(0,lakok.Count-1);
-                Console.WriteLine(lakok[1].beszel());
+                Console.WriteLine(lakok[i].beszel());
             }
         }
     }
@@ -83,6 +83,7 @@ namespace Polimorf
             otthon.hazajon((Ember)kati);
             otthon.hazajon((Ember)sari);
             otthon.hazajon((Ember)zsuzsi);
+            otthon.hazajon((Ember)dani);
             otthon.hazajon((Ember)adam);
             otthon.hazajon((Ember)gergo);
             otthon.hazajon((Ember)attila);
