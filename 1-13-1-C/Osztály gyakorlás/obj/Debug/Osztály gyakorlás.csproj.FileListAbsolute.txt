@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\bin\Debug\Osztály gyakorlás.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\bin\Debug\Osztály gyakorlás.exe
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\bin\Debug\Osztály gyakorlás.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\obj\Debug\Osztály gyakorlás.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\obj\Debug\Osztály gyakorlás.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\obj\Debug\Osztály gyakorlás.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\obj\Debug\Osztály gyakorlás.exe
+C:\Munka\Programozás\C#\1-13-1-C\Osztály gyakorlás\obj\Debug\Osztály gyakorlás.pdb
