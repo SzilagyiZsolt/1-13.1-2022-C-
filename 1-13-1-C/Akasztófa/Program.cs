@@ -46,7 +46,7 @@ namespace Akasztófa
             if (rzt == ""){
                 for(int i=0; i<szo.Length; i++)
                 {
-                    rzt=rzt + "_ ";
+                    rzt = rzt + "_ ";
                 }
             }
             else
