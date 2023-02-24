@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\bin\Debug\Hasáb.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\bin\Debug\Hasáb.exe
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\bin\Debug\Hasáb.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\obj\Debug\Hasáb.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\obj\Debug\Hasáb.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\obj\Debug\Hasáb.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\obj\Debug\Hasáb.exe
+C:\Munka\Programozás\C#\1-13-1-C\Hasáb\obj\Debug\Hasáb.pdb

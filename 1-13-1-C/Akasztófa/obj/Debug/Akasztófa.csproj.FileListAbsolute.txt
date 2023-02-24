@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\bin\Debug\Akasztófa.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\bin\Debug\Akasztófa.exe
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\bin\Debug\Akasztófa.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\obj\Debug\Akasztófa.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\obj\Debug\Akasztófa.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\obj\Debug\Akasztófa.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\obj\Debug\Akasztófa.exe
+C:\Munka\Programozás\C#\1-13-1-C\Akasztófa\obj\Debug\Akasztófa.pdb

@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\bin\Debug\Buborékrendezés gyakorlás.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\bin\Debug\Buborékrendezés gyakorlás.exe
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\bin\Debug\Buborékrendezés gyakorlás.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\obj\Debug\Buborékrendezés gyakorlás.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\obj\Debug\Buborékrendezés gyakorlás.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\obj\Debug\Buborékrendezés gyakorlás.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\obj\Debug\Buborékrendezés gyakorlás.exe
+C:\Munka\Programozás\C#\1-13-1-C\Buborékrendezés gyakorlás\obj\Debug\Buborékrendezés gyakorlás.pdb

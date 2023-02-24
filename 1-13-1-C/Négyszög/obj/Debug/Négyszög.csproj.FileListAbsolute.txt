@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\bin\Debug\Négyszög.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\bin\Debug\Négyszög.exe
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\bin\Debug\Négyszög.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\obj\Debug\Négyszög.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\obj\Debug\Négyszög.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\obj\Debug\Négyszög.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\obj\Debug\Négyszög.exe
+C:\Munka\Programozás\C#\1-13-1-C\Négyszög\obj\Debug\Négyszög.pdb
