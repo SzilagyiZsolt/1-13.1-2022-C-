@@ -6,44 +6,6 @@ using System.Threading.Tasks;
 
 namespace Négyszög
 {
-    class Hasáb
-    {
-        private double a;
-        private double m;
-        private double V;
-
-        public Hasáb() { }
-        public Hasáb(double a, double m)
-        {
-            this.a = a;
-            this.m = m;
-        }
-        public void setA(double a)
-        {
-            this.a = a;
-        }
-        public void setM(double m)
-        {
-            this.m = m;
-        }
-        public double getA()
-        {
-            return this.a;
-        }
-        public double getM()
-        {
-            return this.m;
-        }
-        public void setV()
-        {
-            this.V = Math.Pow(this.a, 2) * m;
-        }
-        public double getV()
-        {
-            return this.V;
-        }
-
-    }
     class Negyszog
     {
         //Osztályváltozók
@@ -109,16 +71,67 @@ namespace Négyszög
             return this.K;
         }
     }
+    class Hasáb : Negyszog
+    {
+        //Osztályváltozók
+        private int m;
+        private double V;
+        private double F;
+
+        //Konstruktorok
+        public Hasáb(): base() { }
+        public Hasáb(int a, int b, int m) : base(a,b)
+        {
+            this.m = m;
+        }
+
+        //Egyéb metódusok
+        public void setM(int m)
+        {
+            this.m = m;
+        }
+
+        //Kiszámíttatom a szülő osztályban az adatokat
+        public void setNegyszog()
+        {
+            base.setK();
+            base.setT();
+        }
+
+        //A hasáb adatainak kiszámítása
+        public void setV()
+        {
+            this.V = base.getT() * this.m;
+        }
+        public void setF()
+        {
+            this.F = base.getK() * this.m+2* base.getT();
+        }
+
+        //A hasáb adatainak lekérdezése
+        public double getV()
+        {
+            return this.V;
+        }
+        public double getF()
+        {
+            return this.F;
+        }
+
+    }
     internal class Program
     {
         enum nyom
         {
-            oldal, KT
+            oldal, KT, osszes
         }
         static void Main(string[] args)
         {
             //1. példa
             Negyszog n1 = new Negyszog();
+
+            Kiir(n1, nyom.oldal);
+
             n1.setA(5);
             n1.setB(6);
             n1.setT();
@@ -135,20 +148,24 @@ namespace Négyszög
             n3.setK();
 
             //Hasáb Térfogata
-            Hasáb h1 = new Hasáb();
-            h1.setA(5);
-            h1.setM(6);
-            h1.setV();
-            Kiir(h1);
-
-            Hasáb h2 = new Hasáb(7, 9);
+            Hasáb h2 = new Hasáb(7, 7, 9);
+            h2.setNegyszog();
             h2.setV();
-            Kiir(h2);
+            h2.setF();
+            Console.WriteLine($"Felszín:{h2.getF()}, Térfogat: {h2.getV()}");
+
             Console.ReadKey();
         }
-        static private void Kiir(Hasáb ter)
+        static private void Kiir(Negyszog obj, nyom v)
         {
-            Console.WriteLine($"A hasáb térfogata: {ter.getV()}");
+            if (v == nyom.oldal)
+            {
+                Console.WriteLine($"Az n1 négyszög oldalai: a={obj.getA()}, b={obj.getB()}");
+            }
+            else
+            {
+                Console.WriteLine($"A négyszög kerülete: {obj.getK()}, területe: {obj.getT()}");
+            }
         }
     }
 }
