@@ -1,0 +1,8 @@
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\bin\Debug\Háromszög.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\bin\Debug\Háromszög.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\bin\Debug\Háromszög.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\obj\Debug\Háromszög.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\obj\Debug\Háromszög.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\obj\Debug\Háromszög.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\obj\Debug\Háromszög.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Háromszög\obj\Debug\Háromszög.pdb
