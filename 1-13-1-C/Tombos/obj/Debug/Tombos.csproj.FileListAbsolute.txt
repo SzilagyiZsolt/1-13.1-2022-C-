@@ -1,0 +1,8 @@
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\bin\Debug\Tombos.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\bin\Debug\Tombos.exe
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\bin\Debug\Tombos.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\obj\Debug\Tombos.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\obj\Debug\Tombos.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\obj\Debug\Tombos.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\obj\Debug\Tombos.exe
+C:\Munka\Programozás\C#\1-13-1-C\Tombos\obj\Debug\Tombos.pdb

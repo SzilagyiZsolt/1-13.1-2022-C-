@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
+using System.Security.Policy;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -47,26 +49,63 @@ namespace Kor
             return Math.Round(this.K, 2);
         }
     }
+    class Henger : Kor
+    {
+        //Osztályváltozók
+        private double m;
+        private double V;
+        private double A;
+
+        //Konstruktorok
+        public Henger() : base() { }
+
+        public Henger(double r, double m) : base(r) 
+        {
+            this.m = m;
+        }
+        public void setM(double m)
+        {
+            this.m = m;
+        }
+        public void setKor()
+        {
+            base.setK();
+            base.setT();
+            
+
+        }
+        public void setV()
+        {
+            this.V= base.getT()*this.m;
+        }
+        public void setA()
+        {
+            this.A = 2 * (base.getT()) +(base.getK() * this.m);
+
+        }
+        public double getV()
+        {
+            return this.V;
+        }
+        public double getA()
+        {
+            return this.A;
+        }
+
+    }
     internal class Program
     {
         static void Main(string[] args)
         {
-            Kor k1 = new Kor();
-            k1.setR(5);
-            k1.setT();
-            k1.setK();
-            Korki(k1);
-
-            Kor k2 = new Kor(6);
-            k2.setT();
-            k2.setK();
-            Korki(k2);
-
+            //Henger Térfogata
+            Henger h2 = new Henger(7, 9);
+            h2.setKor();
+            h2.setV();
+            h2.setA();
+            Console.WriteLine($"Felszín:{Math.Round(h2.getA(),2)} , Térfogat: {Math.Round(h2.getV(),2)}");
             Console.ReadKey();
         }
-        static private void Korki(Kor obj)
-        {
-            Console.WriteLine($"A négyszög kerülete: {obj.getK()}, területe: {obj.getT()}");
-        }
+
+
     }
 }

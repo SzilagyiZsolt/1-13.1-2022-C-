@@ -1,0 +1,16 @@
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Users\nagy.sandor.adam\source\repos\Hangman\Hangman\obj\Debug\Hangman.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\bin\Debug\Hangman.exe.config
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\bin\Debug\Hangman.exe
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\bin\Debug\Hangman.pdb
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\obj\Debug\Hangman.csproj.SuggestedBindingRedirects.cache
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\obj\Debug\Hangman.exe
+C:\Munka\Programozás\C#\1-13-1-C\Hangman\Hangman\obj\Debug\Hangman.pdb
