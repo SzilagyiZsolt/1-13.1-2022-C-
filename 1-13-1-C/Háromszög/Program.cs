@@ -81,35 +81,17 @@ namespace Háromszög
     }
     class Hasáb: Háromszög
     {
-        private double a;
-        private double m;
         private double V;
         private double F;
 
-        public Hasáb() { }
-        public Hasáb(double m)
+        public Hasáb() : base() { }
+        public Hasáb(double m, double a, double b, double c) : base(a,b,c,m)
         {
-            this.m = m;
-        }
-        public void setA(int a)
-        {
-            this.a = a;
-        }
-        public void setM(double m)
-        {
-            this.m = m;
-        }
-        public double getA()
-        {
-            return a;
-        }
-        public double getM()
-        {
-            return this.m;
+
         }
         public void setV()
         {
-            this.V = (Math.Sqrt(3) / 4) * Math.Pow(this.a,2) * this.m;
+            this.V = (Math.Sqrt(3) / 4) * Math.Pow(base.getA(), 2) * base.getM();
         }
         public double getV()
         {
@@ -117,7 +99,7 @@ namespace Háromszög
         }
         public void setF()
         {
-            this.F =2 * (Math.Sqrt(3) / 4) * Math.Pow(this.a,2)+ 3 * this.a * this.m;
+            this.F = 2 * (Math.Sqrt(3) / 4) * Math.Pow(base.getA(), 2) + 3 * base.getA() * base.getM();
         }
         public double getF()
         {
