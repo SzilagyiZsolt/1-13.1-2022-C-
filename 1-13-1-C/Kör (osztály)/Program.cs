@@ -71,8 +71,6 @@ namespace Kor
         {
             base.setK();
             base.setT();
-            
-
         }
         public void setV()
         {
