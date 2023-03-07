@@ -13,18 +13,18 @@ namespace Háromszög
         private double a;
         private double b;
         private double c;
-        private double m;
+        private double s;
         private double T;
         private double K;
 
         //Konstruktorok
         public Háromszög() { }
-        public Háromszög(double a, double b, double c, double m)
+        public Háromszög(double a, double b, double c, double s)
         {
             this.a = a;
             this.b = b;
             this.c = c;
-            this.m = m;
+            this.s = s;
         }
 
         //Metódusok
@@ -40,9 +40,9 @@ namespace Háromszög
         {
             this.c = c;
         }
-        public void setM(double m)
+        public void setS(double s)
         {
-            this.m = m;
+            this.s = (a+b+c)/2;
         }
 
         public double getA()
@@ -57,13 +57,13 @@ namespace Háromszög
         {
             return this.c;
         }
-        public double getM()
+        public double getS()
         {
-            return this.m;
+            return this.s;
         }
         public void setT()
         {
-            this.T = (this.a * this.m) / 2;
+            this.T = Math.Sqrt(s*(s-a)*(s-b)*(s-c));
         }
         public double getT()
         {
@@ -81,17 +81,23 @@ namespace Háromszög
     }
     class Hasáb: Háromszög
     {
+        public double m;
         private double V;
         private double F;
 
         public Hasáb() : base() { }
-        public Hasáb(double m, double a, double b, double c) : base(a,b,c,m)
+        public Hasáb(double m, double s, double a, double b, double c) : base(a,b,c,s)
         {
-
+            this.m = m;
+        }
+        public void setHátomszög()
+        {
+            base.setK();
+            base.setT();
         }
         public void setV()
         {
-            this.V = (Math.Sqrt(3) / 4) * Math.Pow(base.getA(), 2) * base.getM();
+            this.V = base.getT()* m;
         }
         public double getV()
         {
@@ -99,7 +105,7 @@ namespace Háromszög
         }
         public void setF()
         {
-            this.F = 2 * (Math.Sqrt(3) / 4) * Math.Pow(base.getA(), 2) + 3 * base.getA() * base.getM();
+            this.F = 2 * base.getT() + base.getK() * 2;
         }
         public double getF()
         {
@@ -120,7 +126,6 @@ namespace Háromszög
             h1.setA(6);
             h1.setB(5);
             h1.setC(9);
-            h1.setM(4);
             h1.setT();
             h1.setK();
             Kiir(h1);
@@ -134,7 +139,6 @@ namespace Háromszög
             //3. Példa
             Hasáb h3 = new Hasáb();
             h3.setA(6);
-            h3.setM(5);
             h3.setF();
             h3.setV();
             Console.WriteLine("A hasáb felszíne: {0}, térfogata: {1}", h3.getF(), h3.getV());
