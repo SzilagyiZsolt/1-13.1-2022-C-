@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\bin\Debug\Szigetek(Class).exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\bin\Debug\Szigetek(Class).exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\bin\Debug\Szigetek(Class).pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\obj\Debug\Szigetek(Class).csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\obj\Debug\Szigetek(Class).csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\obj\Debug\Szigetek(Class).csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\obj\Debug\Szigetek(Class).exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Szigetek(Class)\obj\Debug\Szigetek(Class).pdb

@@ -14,3 +14,11 @@ C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérs�
 C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.CoreCompileInputs.cache
 C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.exe
 C:\Munka\Programozás\C#\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\bin\Debug\Átlaghőmérséklet.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Átlaghőmérséklet\obj\Debug\Átlaghőmérséklet.pdb

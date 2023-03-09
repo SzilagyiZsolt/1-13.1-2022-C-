@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Diagnostics.PerformanceData;
-using System.Linq;
-using System.Security;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Átlaghőmérséklet
 {
@@ -23,20 +16,21 @@ namespace Átlaghőmérséklet
             int[] tomb = new int[360];
             double[] átlagok = new double[12];
 
-            for (int i=1; i < tomb.Length; ++i)
+            for (int j = 0, i = 1; i < tomb.Length; ++i)
             {
-                tomb[i] = r.Next(max,min);
+                tomb[i] = r.Next(max, min);
 
                 if (i <= 30)
                 {
-                    Console.WriteLine("Az év {0}. napján, Januárban a hőmérséklet: {1}", i ,tomb[i]);
+                    Console.WriteLine("Az év {0}. napján, Januárban a hőmérséklet: {1}", i, tomb[i]);
                     összeg = összeg + tomb[i];
                     átlag = összeg / 30;
                     if (i == 30)
                     {
                         Console.WriteLine("Januárban az átlaghőmérséklet: {0}", átlag);
+                        átlagok[j] = átlag;
                         Console.WriteLine(" ");
-                        
+
                     }
                 }
                 if (30 < i && i <= 60)
@@ -51,6 +45,7 @@ namespace Átlaghőmérséklet
                     if (i == 60)
                     {
                         Console.WriteLine("Februárban az átlaghőmérséklet: {0}", átlag);
+                        átlagok[j] = átlag;
                         Console.WriteLine(" ");
                     }
                 }
