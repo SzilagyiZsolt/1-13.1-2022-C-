@@ -28,7 +28,7 @@ namespace HofokOOP
         static string[] honapok = { "Január", "Február", "Március", "Április", "Május", "Június", "Július", "Augusztus", "Szeptember", "Október", "November", "December" };
 
         //Konstruktorok
-        Hofokszamitas(int[,] p) 
+        public Hofokszamitas(int[,] p) 
         {
             this.adat = p;
         }
@@ -63,9 +63,6 @@ namespace HofokOOP
             //Leghidegebb és legmelegebb átlaghőmérsékletű hónap kiszámítása
             setHaviAtlag();
             setHavimaxmin();
-
-            //Folyamatos 5 mínusz nap kiszámítása
-            setOtminusz();
         }
 
         private void setHaviAtlag()
@@ -89,7 +86,7 @@ namespace HofokOOP
             {
                 for (int j=0; j<adat.GetLength(1); j++) //Napok ciklusa
                 {
-                    if (this.adat[i, j] < 0)
+                    if (this.adat[i, j] < 0 && mDb<=6)
                     {
                         this.otMinusz[mDb].honap = honapok[i];
                         this.otMinusz[mDb].nap = j + 1;
