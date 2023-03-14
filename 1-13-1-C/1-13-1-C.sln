@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halmazállapot", "Halmazál
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pontok távolsága", "Pontok távolsága\Pontok távolsága.csproj", "{3BECC5DE-5895-4D04-90F0-80A3A718D3D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\BlackJack.csproj", "{3F87337B-E26D-428B-A96F-78C99FBE942E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -247,6 +249,10 @@ Global
 		{3BECC5DE-5895-4D04-90F0-80A3A718D3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BECC5DE-5895-4D04-90F0-80A3A718D3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BECC5DE-5895-4D04-90F0-80A3A718D3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F87337B-E26D-428B-A96F-78C99FBE942E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F87337B-E26D-428B-A96F-78C99FBE942E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F87337B-E26D-428B-A96F-78C99FBE942E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F87337B-E26D-428B-A96F-78C99FBE942E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
