@@ -12,11 +12,17 @@ namespace PontHatOOP
         {
             int a;
             Console.WriteLine("Add meg a pontodat: ");
-            a = int.Parse(Console.ReadLine());
-            PontHatOOP P1 = new PontHatOOP();
-            P1.setPont(a);
-            P1.setJegy();
-
+            try
+            {
+                a = int.Parse(Console.ReadLine());
+                PontHatOOP P1 = new PontHatOOP();
+                P1.setPont(a);
+                P1.setJegy();
+            }
+            catch
+            {
+                Console.WriteLine("Hibás adat!");
+            }
             Console.ReadKey();
         }
     }

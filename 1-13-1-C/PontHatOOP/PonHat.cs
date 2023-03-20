@@ -23,7 +23,7 @@ namespace PontHatOOP
         }
         public void setJegy()
         {
-            if (this.Pont < 50)
+            if (this.Pont >= 0 && this.Pont <= 49)
             {
                 Console.WriteLine("Érdemjegyed: 1");
             }
@@ -39,15 +39,20 @@ namespace PontHatOOP
             {
                 Console.WriteLine("Érdemjegyed: 4");
             }
-            else if (this.Pont > 90)
+            else if (this.Pont >= 90 && this.Pont <= 100)
             {
                 Console.WriteLine("Érdemjegyed: 5");
+            }
+            else
+            {
+                Console.WriteLine("Hibás adat!");
             }
         }
         public double getJegy()
         {
             return this.Jegy;
-        }public double getPont()
+        }
+        public double getPont()
         {
             return this.Pont;
         }
