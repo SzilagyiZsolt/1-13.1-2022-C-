@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackJack", "BlackJack\Blac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PontHatOOP", "PontHatOOP\PontHatOOP.csproj", "{A7594670-2E95-485F-8228-BA089F974054}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CímletezésOOP", "CímletezésOOP\CímletezésOOP.csproj", "{001CD664-65C8-4291-AA3F-8F82CB119938}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +261,10 @@ Global
 		{A7594670-2E95-485F-8228-BA089F974054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7594670-2E95-485F-8228-BA089F974054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7594670-2E95-485F-8228-BA089F974054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{001CD664-65C8-4291-AA3F-8F82CB119938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{001CD664-65C8-4291-AA3F-8F82CB119938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{001CD664-65C8-4291-AA3F-8F82CB119938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{001CD664-65C8-4291-AA3F-8F82CB119938}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

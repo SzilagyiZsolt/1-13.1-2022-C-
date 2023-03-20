@@ -13,8 +13,8 @@ namespace Fej_vagy_írás
         static void Main(string[] args)
         {
             int pénz, tét, dobás;
-            string fvi, dobás2;
-
+            string fvi="da";
+            string dobás2;
             int[]Tomb=new int[1];
             Random r = new Random();
             Console.WriteLine("### Fej vagy írás ###");
@@ -27,40 +27,49 @@ namespace Fej_vagy_írás
                     Tomb[i] = r.Next(2);
                     dobás = Tomb[i];
                     Console.WriteLine("Pénzed: {0}", pénz);
-
                     Console.WriteLine("Tipp?");
+                    Console.WriteLine(fvi);
                     fvi = Console.ReadLine();
+                    Console.WriteLine(fvi);
                     if (fvi == "Fej" || fvi=="fej")
-                    {
-                        fvi = "Fej";
-                    }
-                    else if (fvi == "Írás" || fvi=="írás")
-                    {
-                        fvi = "Írás";
-                    }
+                        {
+                            fvi = "Fej";
+                        }
+                        else if (fvi == "Írás" || fvi=="írás")
+                        {
+                            fvi = "Írás";
+                        }
+                    
 
                     Console.WriteLine("Tét?");
                     tét = int.Parse(Console.ReadLine());
-                    if (dobás == 0)
+
+                    if (pénz >= tét)
                     {
-                        dobás2 = "Fej";
+                        if (dobás == 0)
+                        {
+                            dobás2 = "Fej";
+                        }
+                        else
+                        {
+                            dobás2 = "Írás";
+                        }
+                        if (dobás2 == fvi)
+                        {
+                            Console.WriteLine("A dobás: {0}", dobás2);
+                            Console.WriteLine("Nyertél {0} forintot!", tét);
+                            pénz += tét;
+                        }
+                        else
+                        {
+                            Console.WriteLine("A dobás: {0}", dobás2);
+                            Console.WriteLine("Vesztettél {0} forintot!", tét);
+                            pénz -= tét;
+                        }
                     }
                     else
                     {
-                        dobás2 = "Írás";
-                    }
-                    if (dobás2 == fvi)
-                    {
-                        Console.WriteLine("A dobás: {0}", dobás2);
-                        Console.WriteLine("Nyertél {0} forintot!", tét);
-                        pénz = pénz + tét;
-                        Console.WriteLine("Nyomj meg egy gombot a folytatáshoz!");
-                    }
-                    else
-                    {
-                        Console.WriteLine("A dobás: {0}", dobás2);
-                        Console.WriteLine("Vesztettél {0} forintot!", tét);
-                        pénz = pénz - tét;
+                        Console.WriteLine("Túl nagy a tét tesó!");
                     }
                     Console.WriteLine(" ");
                 }
