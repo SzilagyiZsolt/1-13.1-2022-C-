@@ -48,6 +48,33 @@ namespace PontHatOOP
                 Console.WriteLine("Hibás adat!");
             }
         }
+        public PontHatOOP(int Pont, string Jegy)
+        {
+            if (this.Pont <= 49)
+            {
+                Console.WriteLine("Érdemjegyed: 1");
+            }
+            else if (this.Pont <= 64)
+            {
+                Console.WriteLine("Érdemjegyed: 2");
+            }
+            else if (this.Pont <= 79)
+            {
+                Console.WriteLine("Érdemjegyed: 3");
+            }
+            else if (this.Pont <= 89)
+            {
+                Console.WriteLine("Érdemjegyed: 4");
+            }
+            else if (this.Pont <= 100)
+            {
+                Console.WriteLine("Érdemjegyed: 5");
+            }
+            else
+            {
+                Console.WriteLine("Hibás adat!");
+            }
+        }
         public double getJegy()
         {
             return this.Jegy;
