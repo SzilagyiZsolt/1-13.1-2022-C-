@@ -22,7 +22,7 @@ namespace _18.Feladat
             gyök =(int)(Math.Pow(b, 2) - (4 * a * c));
             if (gyök < 0) 
             {
-                gyök = gyök - gyök -gyök;
+                gyök=Math.Abs(gyök);
             }
             gyök2 = (float)(Math.Sqrt(gyök));
             vég = (-b +gyök2) / (2 * a);

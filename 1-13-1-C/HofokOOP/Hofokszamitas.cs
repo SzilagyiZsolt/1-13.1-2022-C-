@@ -79,7 +79,7 @@ namespace HofokOOP
             }
         }
 
-        private void setOtminusz()
+        public void setOtminusz()
         {
             int mDb = 0;                                //Ezzel számolom, hogy hanyadik mínuszos napon tartunk
             for (int i=0; i<adat.GetLength(0); i++)     //Hónap ciklusa
