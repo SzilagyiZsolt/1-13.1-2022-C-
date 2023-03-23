@@ -93,6 +93,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CímletezésOOP", "Címlete
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Példa 1", "Példa 1\Példa 1.csproj", "{5D96DC20-BB64-4403-B190-032E09F28B13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinnyeOOP", "DinnyeOOP\DinnyeOOP.csproj", "{768C79FA-E807-40A7-BC2E-E8367843457F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsempeOOP", "CsempeOOP\CsempeOOP.csproj", "{42F8B2EE-EE7B-49E9-945B-0A6C338D0A99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +275,14 @@ Global
 		{5D96DC20-BB64-4403-B190-032E09F28B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D96DC20-BB64-4403-B190-032E09F28B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D96DC20-BB64-4403-B190-032E09F28B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768C79FA-E807-40A7-BC2E-E8367843457F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768C79FA-E807-40A7-BC2E-E8367843457F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768C79FA-E807-40A7-BC2E-E8367843457F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768C79FA-E807-40A7-BC2E-E8367843457F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F8B2EE-EE7B-49E9-945B-0A6C338D0A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8B2EE-EE7B-49E9-945B-0A6C338D0A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F8B2EE-EE7B-49E9-945B-0A6C338D0A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F8B2EE-EE7B-49E9-945B-0A6C338D0A99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

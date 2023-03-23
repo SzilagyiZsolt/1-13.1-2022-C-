@@ -12,9 +12,9 @@ namespace _14.Feladat
         static void Main(string[] args)
         {
             float a, b, T, cs, TT;
-            Console.WriteLine("Add meg a szélességet: ");
+            Console.WriteLine("Add meg a szoba szélességét: ");
             a = float.Parse(Console.ReadLine());
-            Console.WriteLine("Add meg a magasságot: ");
+            Console.WriteLine("Add meg a szoba magasságát: ");
             b = float.Parse(Console.ReadLine());
             T = a * b;
             cs = (float)(T / (0.2 * 0.2));
