@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
+using System.ComponentModel.Design;
 
 namespace BlackJack
 {
@@ -16,25 +18,111 @@ namespace BlackJack
             string s;
             int cardplayer, cardCPU;
 
-            if (!b)
+            do
             {
-                Inic();
-            }
-            
-            Console.WriteLine("-----------------------------------");
-            Console.WriteLine("|            BlackJack            |");
-            Console.WriteLine("-----------------------------------");
-            Console.WriteLine(" ");
+                if (!b)
+                {
+                    Inic();
+                }
 
-            cardplayer = Huzas(2, nev);
-            cardCPU = Huzas(2, "CPU");
+                Console.WriteLine("-----------------------------------");
+                Console.WriteLine("|            BlackJack            |");
+                Console.WriteLine("-----------------------------------");
+                Console.WriteLine(" ");
 
-            Console.WriteLine("Akarod folytatni? (i/n)");
-            s=Console.ReadLine().ToLower().Trim();
-            if (s == "i")
+                cardplayer = Huzas(2, nev);
+                for (int i = 0; i < 3; i++)
+                {
+                    Console.Write(".");
+                    Thread.Sleep(1000);
+                }
+                Console.WriteLine(" ");
+                cardCPU = Huzas(2, "CPU");
+                Console.WriteLine("\nÖsszesen: {0}", cardplayer);
+                Console.WriteLine("Mennyi a tét?");
+                int tet = int.Parse(Console.ReadLine());
+                bool megall = false;
+                string m = Men();
+                if (m == "1")
+                {
+                    cardplayer += Huzas(1, nev);
+
+                    Console.WriteLine("Összesen: {0}", cardplayer);
+                }
+                else if (m == "2")
+                {
+                    megall = true;
+                }
+                else if (m == "3")
+                {
+                    Lose(tet, nev);
+                }
+                while (cardplayer < 18)
+                {
+                    cardplayer += Huzas(1, "CPU");
+                }
+                if (cardplayer > 21 && cardCPU > 21)
+                {
+                    Console.WriteLine("Mindenki veszített");
+                    Lose(tet, nev);
+                }
+                else if (cardCPU > 21)
+                {
+                    Console.WriteLine("Nyertél");
+                    Win(tet, nev);
+                }
+                else if (cardplayer > 21)
+                {
+                    Console.WriteLine("Vesztettél");
+                    Lose(tet, nev);
+                }
+                else if (cardplayer == cardCPU)
+                {
+                    Console.WriteLine("Döntetlen");
+                }
+                else if (cardplayer > cardCPU)
+                {
+                    Console.WriteLine("Nyertél");
+                    Win(tet, nev);
+                }
+                else if (cardplayer < cardCPU)
+                {
+                    Console.WriteLine("Vesztettél");
+                    Lose(tet, nev);
+                }
+                b = true;
+
+                Console.WriteLine("Akarod folytatni? (i/n)");
+                s = Console.ReadLine().ToLower().Trim();
+                if (s == "i" && egyenleg>=1)
+                {
+                    Console.Clear();
+                    Shell();
+                }
+            } while (egyenleg > 1 || s=="i");
+        }
+        static void Lose(int tet, string nv)
+        {
+            egyenleg-=(tet*2);
+            Console.WriteLine("Vesztettél {0}! Egyenleged: {1}", nv, egyenleg);
+        }
+        static void Win(int tet, string nv)
+        {
+            egyenleg += (tet * 2);
+            Console.WriteLine("Nyertél {0}! Egyenleged: {1}", nv, egyenleg);
+        }
+        static string Men()
+        {
+            string valasz="";
+            do
             {
-                Shell();
-            }
+                Console.WriteLine("Mit akarsz?");
+                Console.WriteLine("\t1 - még lapot");
+                Console.WriteLine("\t2 - megállok");
+                Console.WriteLine("\t3 - feladom");
+                valasz = Console.ReadLine().Trim();
+            } while (valasz != "1" && valasz != "2" && valasz != "3");
+            return valasz;
         }
 
         static int Huzas(int v, string nev)
@@ -49,7 +137,6 @@ namespace BlackJack
                 Console.Write("{0}, ", k[i]);
                 card+= k[i];
             }
-            Console.WriteLine("Összesen: {0}", card);
             return card;
         }
 
@@ -79,6 +166,7 @@ namespace BlackJack
         static void Main(string[] args)
         {
             Shell();
+            Console.WriteLine("Köszönöm a játékot!");
 
             Console.ReadKey();
         }
