@@ -10,12 +10,12 @@ namespace CsempeOOP
     {
         static void Main(string[] args)
         {
-            double a, b;
+            int a, b;
             Csempe cs1 =new Csempe();
             Console.WriteLine("Add meg a szoba szélességét: ");
-            a = float.Parse(Console.ReadLine());
+            a = int.Parse(Console.ReadLine());
             Console.WriteLine("Add meg a szoba magasságát: ");
-            b = float.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
             cs1.setA(a);
             cs1.setB(b);
             cs1.setT();

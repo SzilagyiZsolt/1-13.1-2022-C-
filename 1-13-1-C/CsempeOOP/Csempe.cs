@@ -8,21 +8,13 @@ namespace CsempeOOP
 {
     internal class Csempe
     {
-        public double a, b, T, cs, TT;
+        private int cs, TT, a, b, T;
         public Csempe() { }
-        public Csempe(double a, double b, double T, double cs, double TT)
-        {
-            this.a = a;
-            this.b = b;
-            this.T = T;
-            this.cs = cs;
-            this.TT = TT;
-        }
-        public void setA(double a)
+        public void setA(int a)
         {
             this.a = a;
         }
-        public void setB(double b)
+        public void setB(int b)
         {
             this.b = b;
         }
@@ -32,16 +24,12 @@ namespace CsempeOOP
         }
         public void setCS()
         {
-            this.cs = this.T / (0.2 * 0.2);
+            this.cs = (int)(this.T / (0.2 * 0.2));
         }
         public void setTT()
         {
-            this.TT = this.cs * 1.1;
+            this.TT = (int)Math.Round(this.cs * 1.1);
         }
-        public double getA() { return this.a; }
-        public double getB() { return this.b; }
-        public double getT() { return this.T; }
-        public double getCS() { return this.cs; }
-        public double getTT() { return this.TT; }
+        public int getTT() { return this.TT; }
     }
 }
