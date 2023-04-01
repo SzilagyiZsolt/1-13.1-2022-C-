@@ -1,0 +1,8 @@
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\bin\Debug\TortOOP.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\bin\Debug\TortOOP.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\bin\Debug\TortOOP.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\obj\Debug\TortOOP.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\obj\Debug\TortOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\obj\Debug\TortOOP.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\obj\Debug\TortOOP.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\TortOOP\obj\Debug\TortOOP.pdb
