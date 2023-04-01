@@ -18,7 +18,7 @@ namespace Szigetek
             for (i = 0; i < 50; ++i)
             {
                 data[i] = r.Next(2);
-                Console.WriteLine(data[i]);
+                Console.Write(data[i]);
             }
             //Kezdő értékek
             islandCount = 0; 
@@ -48,6 +48,7 @@ namespace Szigetek
                 }
             }
             //Kiírás
+            Console.WriteLine(" ");
             Console.WriteLine("A leghosszabb egybefüggő szárazföld hossza: {0}", maxIslandLength);
             Console.WriteLine("Szigetek száma: {0}", islandCount);
             Console.ReadKey();
