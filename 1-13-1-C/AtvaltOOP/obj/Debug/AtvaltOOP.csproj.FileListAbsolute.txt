@@ -1,0 +1,8 @@
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\bin\Debug\AtvaltOOP.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\bin\Debug\AtvaltOOP.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\bin\Debug\AtvaltOOP.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\obj\Debug\AtvaltOOP.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\AtvaltOOP\obj\Debug\AtvaltOOP.pdb

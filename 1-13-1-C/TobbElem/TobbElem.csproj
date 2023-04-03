@@ -4,11 +4,19 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{C77BB699-8C91-4570-8D17-70C3607DEFAF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>TobbElem</RootNamespace>
     <AssemblyName>TobbElem</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+=======
+    <ProjectGuid>{36D630A1-4EA2-4217-95E3-14EA57E5E276}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TobbElem</RootNamespace>
+    <AssemblyName>TobbElem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+>>>>>>> e02bcea01199af8e67f747da43ee22431d1e63a7
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
