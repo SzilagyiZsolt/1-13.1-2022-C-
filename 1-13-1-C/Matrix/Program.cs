@@ -1,43 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tomb01
+namespace MatrixOOP
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int sor = 10;
-            int oszlop = 10;
-            int alsoHatar = 10,
-                felsoHatar = 1000;
-            int[,] tomb = new int[sor, oszlop];
-            Random r = new Random();
-            for (int i = 0; i < tomb.GetLength(0); i++)
-            {
-                for (int j = 0; j < tomb.GetLength(1); j++) 
-                {
-                    tomb[i,j] = r.Next(alsoHatar, felsoHatar); 
-                }
-            }
-            for (int i = 0; i < tomb.GetLength(0); i++)
-            {
-                for (int j = 0; j < tomb.GetLength(1); j++)
-                {
-                    Console.Write(tomb[i, j] + ", ");
-                }
-                Console.WriteLine();
-                
-            }
-            Console.WriteLine("Kiíratás foreach-csel");
-            foreach (int i in tomb)
-                Console.Write(i + ", ");
-
-            Console.ReadLine();
+            int a,b,c,d,n;
+            Console.WriteLine("Add meg hogy Mátrix méretét: ");
+            n=int.Parse(Console.ReadLine());
+            Console.WriteLine("Add meg a 4 számot: ");
+            a=int.Parse(Console.ReadLine());
+            b=int.Parse(Console.ReadLine());
+            c=int.Parse(Console.ReadLine());
+            d=int.Parse(Console.ReadLine());
+            Matrix m1=new Matrix(a,b,c,d,n);
+            m1.setOSSZEG();
+            Console.WriteLine("A determináns összege: {0}", m1.getOSSZEG());
+            Console.ReadKey();
         }
     }
 }

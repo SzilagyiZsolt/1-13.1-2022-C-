@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\bin\Debug\TobbElem.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\bin\Debug\TobbElem.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\bin\Debug\TobbElem.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\obj\Debug\TobbElem.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\obj\Debug\TobbElem.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\obj\Debug\TobbElem.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\obj\Debug\TobbElem.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\TobbElem\obj\Debug\TobbElem.pdb

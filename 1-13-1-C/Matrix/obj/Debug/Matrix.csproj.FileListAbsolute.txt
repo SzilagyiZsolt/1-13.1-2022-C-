@@ -1,8 +1,0 @@
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\bin\Debug\Matrix.exe.config
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\bin\Debug\Matrix.exe
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\bin\Debug\Matrix.pdb
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\obj\Debug\Matrix.csproj.SuggestedBindingRedirects.cache
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\obj\Debug\Matrix.exe
-C:\Munka\Programozás\C#\1-13-1-C\Matrix\obj\Debug\Matrix.pdb

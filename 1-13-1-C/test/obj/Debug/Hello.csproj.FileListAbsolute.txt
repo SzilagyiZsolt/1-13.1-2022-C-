@@ -6,3 +6,11 @@ C:\Munka\Programozás\C#\1-13-1-C\test\obj\Debug\Hello.csproj.SuggestedBindingRe
 C:\Munka\Programozás\C#\1-13-1-C\test\obj\Debug\Hello.csproj.CoreCompileInputs.cache
 C:\Munka\Programozás\C#\1-13-1-C\test\obj\Debug\test.exe
 C:\Munka\Programozás\C#\1-13-1-C\test\obj\Debug\test.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\bin\Debug\test.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\bin\Debug\test.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\bin\Debug\test.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\obj\Debug\test.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\test\obj\Debug\test.pdb

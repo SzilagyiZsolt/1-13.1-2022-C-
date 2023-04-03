@@ -11,10 +11,6 @@ namespace CímletezésOOP
         static int[] Címletek = { 5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000 };
         private int Pénz;
         public Címletezés() { }
-        public Címletezés(int Pénz)
-        {
-            this.Pénz = Pénz;
-        }
         public void setPÉNZ(int Pénz)
         {
             this.Pénz = Pénz;
@@ -37,10 +33,6 @@ namespace CímletezésOOP
                 }
             }
             Console.WriteLine("Az összeg a lehető legkevesebb címletekből összeállítva: {0} db.", val);
-        }
-        public int getPENZ()
-        {
-            return this.Pénz;
         }
     }
 }
