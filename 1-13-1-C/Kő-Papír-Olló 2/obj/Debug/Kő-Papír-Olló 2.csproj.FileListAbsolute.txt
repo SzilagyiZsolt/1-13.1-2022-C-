@@ -6,3 +6,11 @@ C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\K�
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.csproj.CoreCompileInputs.cache
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.exe
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\bin\Debug\Kő-Papír-Olló 2.exe.config
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\bin\Debug\Kő-Papír-Olló 2.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\bin\Debug\Kő-Papír-Olló 2.pdb
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.exe
+C:\Users\szilagyi.zsolt\source\repos\1-13.1-2022-C-\1-13-1-C\Kő-Papír-Olló 2\obj\Debug\Kő-Papír-Olló 2.pdb

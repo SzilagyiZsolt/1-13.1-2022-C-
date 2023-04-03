@@ -11,17 +11,15 @@ namespace MatrixOOP
     {
         //Osztályváltozók
         private int a, b, c, d, osszeg,n;
-        private int[,] Tomb=null;
 
         //Konstruktorok
-        public Matrix(int a, int b, int c, int d, int n, int[,] Tomb) //Az a,b,c,d a 2-es mátrix mérethez való
+        public Matrix(int a, int b, int c, int d, int n) //Az a,b,c,d a 2-es mátrix mérethez való
         {
             this.a = a; 
             this.b = b;
             this.c = c;
             this.d = d;
             this.n = n;  //Mátrix mérete
-            this.Tomb= Tomb;
         }
         public void setOSSZEG()
         {
@@ -36,7 +34,7 @@ namespace MatrixOOP
             }
             else if(n <2)
             {
-                
+                Console.WriteLine("Ilyen nincs");
             }
             
         }
