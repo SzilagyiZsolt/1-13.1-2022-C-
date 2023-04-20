@@ -11,14 +11,24 @@ namespace FileIO
     {
         static void Main(string[] args)
         {
-            FileInOut f= new FileInOut();
-            using (StreamWriter sr2 = f.getFile2())
+            FileInOut f2 = new FileInOut();
+
+            using(StreamWriter sr2 = f2.getFile2())
             {
+                sr2.Write("Sziasztok! Ez itt egy teszt! Ha müködik oké! <3");
 
-                Console.ReadLine();
-
-                Console.WriteLine();
             }
+            f2.closerFile();
+
+            //using (StreamReader sr = f2.getFile())
+            //{
+
+
+             //   string s = sr.ReadToEnd();
+              //  Console.WriteLine(s);
+
+            //}
+            //f2.closerFile();
             Console.ReadKey();
         }
     }

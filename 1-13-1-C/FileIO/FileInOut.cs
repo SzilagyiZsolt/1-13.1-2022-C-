@@ -86,7 +86,7 @@ namespace FileIO
         public StreamWriter getFile2()
         {
             this.fs2 = new FileStream(this.fileName, this.fileMode, this.fileAccess);
-            this.sr2 = new StreamWriter(fs2);
+            this.sr2 = new StreamWriter(fs2) ;
             return sr2;
         }
         public StreamReader getFile()
