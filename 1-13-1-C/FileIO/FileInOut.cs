@@ -24,7 +24,7 @@ namespace FileIO
             setFileAccess();
         }
 
-        private void setFileAccess()
+        public void setFileAccess()
         {
             bool ismet;
             string s;
@@ -83,17 +83,9 @@ namespace FileIO
                 }
             }while (ismet);
         }
-        public StreamWriter getFile2()
+        public FileStream getFile()
         {
-            this.fs2 = new FileStream(this.fileName, this.fileMode, this.fileAccess);
-            this.sr2 = new StreamWriter(fs2) ;
-            return sr2;
-        }
-        public StreamReader getFile()
-        {
-            this.fs = new FileStream(this.fileName, this.fileMode, this.fileAccess);
-            this.sr=new StreamReader(fs);
-            return sr;
+            return new FileStream(this.fileName, this.fileMode, this.fileAccess);
         }
         
         public void closerFile()
@@ -111,7 +103,7 @@ namespace FileIO
         private void setFileName()
         {
             Console.WriteLine("Adja meg a fájl nevét kiterjesztés nélkül");
-            this.fileName = Console.ReadLine() + ".txt";
+            this.fileName = Console.ReadLine() + ".csv";
         }
     }
 }
