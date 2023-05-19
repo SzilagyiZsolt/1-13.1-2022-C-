@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\bin\Debug\_1.Feladat.exe.config
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\bin\Debug\_1.Feladat.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\bin\Debug\_1.Feladat.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\obj\Debug\1. Feladat.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\obj\Debug\1. Feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\obj\Debug\1. Feladat.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\obj\Debug\_1.Feladat.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\1. Feladat\obj\Debug\_1.Feladat.pdb

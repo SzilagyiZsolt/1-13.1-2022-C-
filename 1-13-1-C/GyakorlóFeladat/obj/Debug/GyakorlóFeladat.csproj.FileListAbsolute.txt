@@ -1,0 +1,8 @@
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\bin\Debug\GyakorlóFeladat.exe.config
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\bin\Debug\GyakorlóFeladat.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\bin\Debug\GyakorlóFeladat.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\obj\Debug\GyakorlóFeladat.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\obj\Debug\GyakorlóFeladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\obj\Debug\GyakorlóFeladat.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\obj\Debug\GyakorlóFeladat.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\GyakorlóFeladat\obj\Debug\GyakorlóFeladat.pdb
