@@ -6,3 +6,11 @@ C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.Sugge
 C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.CoreCompileInputs.cache
 C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.exe
 C:\Munka\Programozás\C#\1-13-1-C\String Demo\obj\Debug\String Demo.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\bin\Debug\String Demo.exe.config
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\bin\Debug\String Demo.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\bin\Debug\String Demo.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\obj\Debug\String Demo.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\obj\Debug\String Demo.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\String Demo\obj\Debug\String Demo.pdb
