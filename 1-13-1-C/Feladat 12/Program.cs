@@ -13,9 +13,9 @@ namespace Feladat_12
             int a;
             int b=0;
             Random r = new Random();
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 345000; i++)
             {
-                a = r.Next();
+                a = r.Next(1,10000);
                 if (a %2== 0)
                 {
                     b++;

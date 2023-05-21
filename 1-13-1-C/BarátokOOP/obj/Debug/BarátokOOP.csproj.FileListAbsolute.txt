@@ -6,3 +6,11 @@ C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.
 C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.csproj.CoreCompileInputs.cache
 C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.exe
 C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.csproj.AssemblyReference.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.csproj.CoreCompileInputs.cache
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\obj\Debug\BarátokOOP.pdb
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\bin\Debug\BarátokOOP.exe.config
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\bin\Debug\BarátokOOP.exe
+C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\BarátokOOP\bin\Debug\BarátokOOP.pdb

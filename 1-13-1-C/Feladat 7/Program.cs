@@ -17,11 +17,12 @@ namespace Feladat_7
         }
         public static void szamol(int a)
         {
-            
-            int b = 40;
-            Console.WriteLine(a);
-            a = a + 2;
-            szamol(a);
+            if (a <= 40)
+            {
+                Console.WriteLine(a);
+                a +=2;
+                szamol(a);
+            }
         }
     }
 }

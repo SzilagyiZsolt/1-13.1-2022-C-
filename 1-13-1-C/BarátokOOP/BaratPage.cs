@@ -16,46 +16,44 @@ namespace BarátokOOP
         public void Page()
         {
             int lapmeret = 15;
-            int i=0;
-            int p;
-            bool kilep=false;
-            for (i = 0; i < lapmeret; i++)
-            {
-                Console.WriteLine(this.list[i].nev, -20 + ";" + this.list[i].szido.ToShortDateString(), 10 + ";" + this.list[i].hajlam, 1 + ";" + this.list[i].neme, 1);
-            }
-            p = Convert.ToInt32(Console.Read());
+            ConsoleKeyInfo p;
+            int i = 0, j = 0;
+            bool kilepes = false;
+
             do
             {
-                switch (p)
+                Console.Clear();
+                for (j = i; j < this.list.Count && j < lapmeret; j++)
                 {
-                    case 33:
-                        if (i < lapmeret)
-                        {
-                            i = 0;
-                        }
-                        else
-                        {
-                            i = i - lapmeret;
-                        }
+                    Console.WriteLine($"{this.list[j].nev,-20}; " +
+                        $"{this.list[j].szido.ToShortDateString(),10}; " +
+                        $"{this.list[j].hajlam,1};  " +
+                        $"{this.list[j].neme,1}"); // Erre az objectumra hivatkozom
+                }
+                p = Console.ReadKey();
+
+                switch (p.Key)
+                {
+                    case ConsoleKey.PageUp: // PageUp
+                        i = (j >= lapmeret) ? j - lapmeret : 0;
                         break;
-                    case 34:
+                    case ConsoleKey.PageDown: // PageDown
+                        i = j;
                         break;
-                    case 35:
-                        i= this.list.Count-lapmeret;
-                        break;
-                    case 36:
+                    case ConsoleKey.Home: // Home
                         i = 0;
                         break;
-                    case 27:
-                        kilep = true;
+                    case ConsoleKey.End: // End
+                        i = this.list.Count - lapmeret;
+                        break;
+                    case ConsoleKey.Escape: // ESC                    
+                        kilepes = true;
                         break;
                     default:
-                        Console.WriteLine("Csak a következő billentyűket használhatod: PageUp, PageDown, Home, End, Esc");
+                        Console.WriteLine("Csak a következő billentyűket használhatod: PageUp, PageDown, Home, End és ESC");
                         break;
                 }
-            } while (!kilep);
-            
-            
+            } while (!kilepes);
         }
         #endregion Page
     }

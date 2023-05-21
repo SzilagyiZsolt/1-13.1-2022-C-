@@ -8,34 +8,32 @@ namespace BarátokOOP
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static Barátok barat;
+        private static BaratScreen barat1;
+        private static BaratPage barat2;
+        private static BaratBuli barat3;
+        static void Main(string[] args) // Statikus Main
         {
-            string[] t = {"teszt aranka","1991.11.12","N","4"};
+            barat2 = new BaratPage();
+            barat2.Beolvas();
+            barat2.Page();
 
-            Barátok barat =new Barátok();
-            BaratScreen barat1 =new BaratScreen();
-            barat.Beolvas();
-            vizsga(t[0]);
+            barat3 = new BaratBuli();
+            barat3.Beolvas();
+            barat3.bulizas();
 
-            barat.InsertBarat(t);
-            vizsga(t[0]);
-            barat.delete(t[0]);
-            vizsga(t[0]);
-            barat.kiir();
-            vizsga(t[0]);
-            barat1.listazas();
             Console.ReadKey();
         }
-        public static void vizsga(string t)
+        private static void vizsga(string t) // Visszatérési érték
         {
-            Barátok barat = new Barátok();
+
             if (barat.keres(t))
             {
-                Console.WriteLine("Már van ilyen barátunk");
+                Console.WriteLine("Már van ilyen barátunk.");
             }
             else
             {
-                Console.WriteLine("Nincs ilyen barátunk");
+                Console.WriteLine("Nincs ilyen barátunk.");
             }
         }
     }

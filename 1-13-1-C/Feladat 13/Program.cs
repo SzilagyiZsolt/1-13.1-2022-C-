@@ -10,6 +10,13 @@ namespace Feladat_13
     {
         static void Main(string[] args)
         {
+            string a;
+            string b;
+            Console.WriteLine("írj be egy szót: ");
+            a=Console.ReadLine();
+            b = a.Replace("e", "a");
+            Console.WriteLine(b);
+            Console.ReadKey();
         }
     }
 }

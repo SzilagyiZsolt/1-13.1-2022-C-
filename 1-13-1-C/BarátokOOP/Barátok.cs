@@ -38,6 +38,7 @@ namespace BarátokOOP
                 }
             }
         }
+        #endregion Bolvasás
         #region Hozzáadás
         public void InsertBarat(string[] line)
         {
@@ -55,7 +56,7 @@ namespace BarátokOOP
             return szemely;
         }
         #endregion Személy
-        #endregion Bolvasás
+        
         #region Törlés
         public void delete(string nev)
         {
