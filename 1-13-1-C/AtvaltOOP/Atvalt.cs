@@ -8,31 +8,98 @@ namespace AtvaltOOP
 {
     internal class Atvalt
     {
-        int a, b, c, d;
         public Atvalt() { }
-        public void setB(int b)
+        public void Bin()
         {
-            this.b = b;
-        }
-        public void setC(int c)
-        {
-            this.c = c;
-        }
-        public void setD(int d)
-        {
-            this.d = d;
-        }
-        public void setA(int a)
-        {
-            this.a = a;
-            while (this.a > 0)
+            try
             {
-                this.d = this.a % 10;
-                this.a = this.a / 10;
-                this.b += this.d * this.c;
-                this.c = this.c * 2;
+                Console.WriteLine("írj egy számot: ");
+                int a = int.Parse(Console.ReadLine());
+                List<int> Bin = new List<int>();
+                while (a != 0)
+                {
+                    if (a % 2 == 0)
+                    {
+                        a = a / 2;
+                        Bin.Add(0);
+                    }
+                    else
+                    {
+                        a = (a - 1) / 2;
+                        Bin.Add(1);
+                    }
+                }
+                Console.WriteLine("A számod kettes számrendszerben: ");
+                for (int i = 0; i < Bin.Count; i++)
+                {
+                    Console.Write(Bin[Bin.Count - i - 1]);
+                }
+                Console.WriteLine(" ");
+                Console.WriteLine(" ");
+            }
+            catch
+            {
+                Console.WriteLine("Hibás bement! Próbáld meg újra");
             }
         }
-        public int getC() { return this.c; }
+        public void Dec()
+        {
+            Console.Write("írj egy bináris számot: ");
+            try
+            {
+                int a = int.Parse(Console.ReadLine());
+                int b = 0;
+                int c = 1;
+                int d = 0;
+                if (a != 0 || a != 1)
+                {
+                    Console.WriteLine("Hibás bement! Próbáld meg újra");
+                }
+                else
+                {
+                    while (a > 0)
+                    {
+                        d = a % 10;
+                        a = a / 10;
+                        b += d * c;
+                        c = c * 2;
+                    }
+                    Console.WriteLine($"A számod Decimális értékben: {b} ");
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Hibás bement! Próbáld meg újra");
+            }
+        }
+        public void Össz()
+        {
+            string a;
+            bool b = true;
+            while (b == true)
+            {
+                Console.WriteLine("Mit akarsz átváltani?");
+                Console.WriteLine("Bináris számot, Decimálisba? (B)");
+                Console.WriteLine("Decimális számot Binárisba? (D)");
+                Console.WriteLine("Bezárás (Vége)");
+                a = Console.ReadLine();
+                if (a == "D")
+                {
+                    Bin();
+                }
+                else if (a == "B")
+                {
+                    Dec();
+                }
+                else if (a == "Vége")
+                {
+                    b = false;
+                }
+                else
+                {
+                    Console.WriteLine("Hibás bement! Próbáld meg újra");
+                }
+            }
+        }
     }
 }
