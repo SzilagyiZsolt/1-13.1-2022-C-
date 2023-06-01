@@ -18,10 +18,10 @@ namespace Feladat_10
             {
                 forras.WriteLine("<Html>");
                 forras.WriteLine("<Head>");
+                forras.WriteLine("/<Head>");
                 forras.WriteLine("<Body>");
                 forras.WriteLine("<h1>Hello: "+a+"</h1>");
                 forras.WriteLine("/<Body>");
-                forras.WriteLine("/<Head>");
                 forras.WriteLine("</Html>");
                 forras.Close();
             }

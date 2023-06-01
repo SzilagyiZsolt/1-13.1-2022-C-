@@ -11,7 +11,7 @@ namespace Feladat_11
         static void Main(string[] args)
         {
             int a;
-            int b=999999999;
+            int b=int.MaxValue;
             Console.WriteLine("írj be 5 számot: ");
             for (int i = 0; i < 5; i++)
             {
@@ -29,9 +29,8 @@ namespace Feladat_11
                     Console.WriteLine("írj be 5 számot: ");
                     i--;
                 }
-                
             }
-            Console.WriteLine("A legkissebb szám: {0}", b);
+            Console.WriteLine("A legkisebb szám: {0}", b);
             Console.ReadKey();
         }
     }

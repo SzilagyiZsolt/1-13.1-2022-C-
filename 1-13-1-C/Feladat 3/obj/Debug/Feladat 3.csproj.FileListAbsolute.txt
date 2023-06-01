@@ -6,3 +6,11 @@ C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.c
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.csproj.CoreCompileInputs.cache
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.exe
 C:\Users\zsolt\Downloads\1-13.1-2022-C-\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\bin\Debug\Feladat 3.exe.config
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\bin\Debug\Feladat 3.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\bin\Debug\Feladat 3.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Feladat 3\obj\Debug\Feladat 3.pdb

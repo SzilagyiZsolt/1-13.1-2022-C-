@@ -1,0 +1,17 @@
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\bin\Debug\net6.0-windows\Első Forms.exe
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\bin\Debug\net6.0-windows\Első Forms.deps.json
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\bin\Debug\net6.0-windows\Első Forms.runtimeconfig.json
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\bin\Debug\net6.0-windows\Első Forms.dll
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\bin\Debug\net6.0-windows\Első Forms.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.csproj.AssemblyReference.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első_Forms.Form1.resources
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.csproj.GenerateResource.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.AssemblyInfoInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.AssemblyInfo.cs
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.csproj.CoreCompileInputs.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.dll
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\refint\Első Forms.dll
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.pdb
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\Első Forms.genruntimeconfig.cache
+C:\Users\szilagyi.zsolt\Downloads\C#\1-13-1-C\Első Forms\obj\Debug\net6.0-windows\ref\Első Forms.dll

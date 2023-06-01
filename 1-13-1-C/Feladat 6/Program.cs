@@ -21,7 +21,7 @@ namespace Feladat_6
                 a = s.Last<char>();
                 if (a == '?')
                 {
-                    b = random.Next(1, 2);
+                    b = random.Next(1, 3);
                     if (b == 1)
                     {
                         Console.WriteLine("Igen");

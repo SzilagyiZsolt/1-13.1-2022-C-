@@ -20,13 +20,7 @@ namespace Feladat_8
             b = Console.ReadLine();
             Console.WriteLine("Add meg a korod: ");
             c = int.Parse(Console.ReadLine());
-            using (StreamWriter adat = new StreamWriter("C:\\Users\\zsolt\\Downloads\\1-13.1-2022-C-\\1-13-1-C\\Feladat 8\\bin\\Debug\\adat.txt"))
-            {
-                adat.WriteLine(a);
-                adat.WriteLine(b);
-                adat.WriteLine(c);
-                adat.Close();
-            }
+            File.WriteAllText("adat.txt", a + "\n" + b + "\n" + c);
             Console.ReadKey();
         }
     }
