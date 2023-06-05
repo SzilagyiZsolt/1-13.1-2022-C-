@@ -30,5 +30,10 @@ namespace _18._1_Feladat
             Left= Screen.PrimaryScreen.Bounds.Width - Width;
             Top= Screen.PrimaryScreen.Bounds.Height - Height;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
